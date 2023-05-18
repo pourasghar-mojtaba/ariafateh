@@ -1,0 +1,137 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+msgid "employment_plugin_detail"
+msgstr "پلاگین استخدام ها سایت"
+
+msgid "plugin_creator"
+msgstr "شرکت پیکو سایت"
+
+msgid "employment_managment"
+msgstr "مدیریت استخدام"
+
+msgid "employment_list"
+msgstr "لیست استخدام ها"
+
+msgid "add_employment"
+msgstr "افزودن استخدام"
+
+msgid "edit_employment"
+msgstr "ویرایش استخدام"
+
+msgid "delete_employment"
+msgstr "حذف استخدام"
+
+msgid "add_employment"
+msgstr "افزودن استخدام"
+
+msgid "employment"
+msgstr "استخدام"
+
+msgid "employment"
+msgstr "متن استخدام"
+
+msgid "the_employment_has_been_saved"
+msgstr "استخدام با موفقیت ذخیره شد"
+
+msgid "the_employment_could_not_be_saved_Please_try_again"
+msgstr "استخدام ذخیره نشد دوباره تلاش کنید"
+
+msgid "edit_employment"
+msgstr "ویرایش استخدام"
+
+msgid "invalid_employment"
+msgstr "استخدام مورد نظر موجود نمی باشد"
+
+msgid "the_employment_has_been_deleted"
+msgstr "استخدام با موفقیت پاک شد"
+
+msgid "the_employment_could_not_be_deleted_please_try_again"
+msgstr "استخدام حذف نشد لطفا دوباره تلاش بفرمایید"
+
+msgid "user"
+msgstr "کاربر"
+
+msgid "title"
+msgstr "عنوان"
+
+msgid "detail"
+msgstr "جزییات"
+
+msgid "companies"
+msgstr "استخدام ها"
+
+msgid "arrangment"
+msgstr "ترتیب"
+
+msgid "delete_employment_success"
+msgstr "استخدام با موفقیت حدف شد"
+
+msgid "delete_employment_not_success"
+msgstr "استخدام حذف نشد"
+
+msgid "employments"
+msgstr "استخدام ها"
+
+msgid "all_colleage_employment"
+msgstr "استخدام های همکار با آریا فاتح خاورمیانه"
+
+msgid "the_projects_completed_and_under_implementation_the_employment"
+msgstr "از جمله پروژه های انجام شده و در دست اجرای این استخدام"
+
+msgid "date"
+msgstr "تاریخ"
+
+msgid "employment"
+msgstr "استخدام"
+
+msgid "your_place_is_empty "
+msgstr "جای شما در آریا فاتح خاورمیانه خالی است"
+
+msgid "name"
+msgstr "نام و نام خانوادگی"
+
+msgid "job"
+msgstr "موقعیت شغلی"
+
+msgid "mobile"
+msgstr "تلفن همراه"
+
+msgid "phone"
+msgstr "تلفن ثابت"
+
+msgid "email"
+msgstr "پست الکترونیکی"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""

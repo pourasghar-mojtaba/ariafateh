@@ -1,0 +1,234 @@
+﻿
+<!-- ============================ Hero Banner  Start================================== -->
+<div class="hero-header jumbo-banner overflow-bg"  style="background: url(<?php echo __SITE_URL.__THEME_PATH;?>img/bn3.jpg);"  >
+	<div id="particles-js"  ></div>
+	<!--<ul class="cb-slideshow">
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	</ul>-->
+	<div class="container" style="z-index: 10001;">
+		<div class="row" >
+			<div class="col-lg-8 col-md-10">
+				<div class="hero-content">
+					<h1>تیم برنامه نویسی و طراحی پیکو </h1>
+					<p class="lead">
+						گروه پیکو متشکل از مجموعه ای جوان ، با انگیزه و خوش ذوق میباشد که با پشتوانه علمی و رعایت اصول مهندسی و با تکیه بر خلاقیت طراحان و مهندسین خود در تلاش است که خدمات ویژه و تخصصی را به نحوی ارائه دهد که اعتماد ، اطمینان و رضایت مشتریان را به ارمغان آورد
+					</p>
+					<div class="btn-sec">
+						<a href="https://www.instagram.com/picosite/" rel="nofollow" target="_blank" class="btn-join btn-info">به ما بپیوندید</a>
+						<!--<a href="#" class="btn-video"><i class="fa fa-play"></i> مشاهده ویدئوهای بیشتر</a>-->
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</div>
+<div class="clearfix"></div>
+<!-- ============================ Hero Banner End ================================== -->
+
+<!-- ============================ What We Do Start ================================== -->
+<section>
+	<div class="container">
+
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="col text-center">
+					<div class="sec-heading mx-auto">
+						<h2>وجه تمایز ما در تیم برنامه نویسی و طراحی پیکوسایت</h2>
+						<p style='font-size: 33px;color: #21ade4;'>ایده تو بساز</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+
+			<div class="col-lg-4 col-md-4 col-sm-12">
+
+				<!-- Single Features -->
+				<div class="veticle-features mb-4">
+					<div class="veticle-features-item">
+						<div class="veticle-large-features-box"><i class="ti-paint-roller"></i></div>
+						<div class="veticle-features-content">
+							<h4>کیفیت بالا</h4>
+							<p>تمام تلاش ما بر این است محصولاتمان را با کیفیت بالا ارائه نماییم</p>
+						</div>
+					</div>
+				</div>
+
+				<!-- Single Features -->
+				<div class="veticle-features mb-4">
+					<div class="veticle-features-item">
+						<div class="veticle-large-features-box"><i class="ti-reload"></i></div>
+						<div class="veticle-features-content">
+							<h4>سرعت </h4>
+							<p>سرعت در ارائه پیش نمایش کار از مشخصات بارز تیم می باشد</p>
+						</div>
+					</div>
+				</div>
+
+				<!-- Single Features -->
+				<div class="veticle-features mb-4">
+					<div class="veticle-features-item">
+						<div class="veticle-large-features-box"><i class="ti-wand"></i></div>
+						<div class="veticle-features-content">
+							<h4>خلاقیت </h4>
+							<p>طرح ها و ایده های نو و خلاقانه را با ما بدست می آورید</p>
+						</div>
+					</div>
+				</div>
+
+				<!-- Single Features -->
+
+
+			</div>
+
+			<div class="col-lg-4 col-md-4 col-sm-12">
+				<img src="<?php echo __SITE_URL.__THEME_PATH;?>img/career.png" class="img-fluid mx-auto" alt="">
+			</div>
+
+			<div class="col-lg-4 col-md-4 col-sm-12">
+
+				<!-- Single Features -->
+				<div class="veticle-features mb-4">
+					<div class="veticle-features-item">
+						<div class="veticle-large-features-box"><i class="ti-ruler"></i></div>
+						<div class="veticle-features-content">
+							<h4>کاملا سفارشی</h4>
+							<p>کارهای ما منطبق با خواسته مشتری و به صورت کاملا سفارشی ارائه میگردد</p>
+						</div>
+					</div>
+				</div>
+
+				<!-- Single Features -->
+				<div class="veticle-features mb-4">
+					<div class="veticle-features-item">
+						<div class="veticle-large-features-box"><i class="ti-exchange-vertical"></i></div>
+						<div class="veticle-features-content">
+							<h4>هرینه مناسب</h4>
+							<p>کارهای ما با هزینه متاسب و مقرون به صرفه در اختیار مشتری قرار میگیرد</p>
+						</div>
+					</div>
+				</div>
+
+				<!-- Single Features -->
+				<div class="veticle-features mb-4">
+					<div class="veticle-features-item">
+						<div class="veticle-large-features-box"><i class="ti-settings"></i></div>
+						<div class="veticle-features-content">
+							<h4>انعطاف پذیر</h4>
+							<p>خدمات ما بدین صورت می باشد که هر زمان بخواید میتوانید بخش جدیدی در سفارشتان با کمترین دغدغه بیافزایید</p>
+						</div>
+					</div>
+				</div>
+
+				<!-- Single Features -->
+
+
+			</div>
+
+		</div>
+
+	</div>
+	<div class="clearfix"></div>
+</section>
+<div class="clearfix"></div>
+<!-- ============================ What We Do End ================================== -->
+<!-- ============================ Latest News Start ================================== -->
+
+<section>
+	<?php $this->Plugin->run_hook('last_blogs'); ?>
+</section>
+<div class="clearfix"></div>
+<!-- ============================ Latest News End ================================== -->
+
+<!-- ============================== Portfolio Start ============================ -->
+<section class="gray" id="portfolio">
+	<?php $this->Plugin->run_hook('home_projects'); ?>
+</section>
+
+<!-- ======================== Portfolio End ========================== -->
+
+<!-- ============================ Tagline & Purchage section ============================ -->
+<section>
+	<div class="container">
+
+		<div class="row">
+
+			<div class="col-lg-3 col-md-4 col-sm-12">
+				<div class="mt-4">
+					<h6 class="text-primary">ماموریت ما</h6>
+					<h2>اعتماد ، اطمینان،رضایت</h2>
+				</div>
+			</div>
+
+			<div class="col-lg-9 col-md-8 col-sm-12">
+				<div class="row">
+
+					<div class="col-lg-6 col-md-6 col-sm-6">
+						<div class="large-features-2 style-1 shadow-0 border-0 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1200">
+							<div class="large-features-2-thumb">
+								<img src="<?php echo __SITE_URL.__THEME_PATH;?>img/network.png" class="img-responsive" alt="">
+							</div>
+							<div class="large-features-2-detail">
+								<h4>همفکری</h4>
+								<p>ما در طول مسیر بهبود طرح و ایده شما همراهتان هستیم</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-6 col-md-6 col-sm-6">
+						<div class="large-features-2 style-1 shadow-0 border-0 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1200">
+							<div class="large-features-2-thumb">
+								<img src="<?php echo __SITE_URL.__THEME_PATH;?>img/idea-bulb.png" class="img-responsive" alt="">
+							</div>
+							<div class="large-features-2-detail">
+								<h4>خلاقیت</h4>
+								<p>طراحی خود را با اطمینان کامل به ما بسپارید</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-6 col-md-6 col-sm-6">
+						<div class="large-features-2 style-1 shadow-0 border-0 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1200">
+							<div class="large-features-2-thumb">
+								<img src="<?php echo __SITE_URL.__THEME_PATH;?>img/testing.png" class="img-responsive" alt="">
+							</div>
+							<div class="large-features-2-detail">
+								<h4>تنوع در نرم افزار های مورد استفاده</h4>
+								<p>تیم مهندسی پیکو قابلیت استفاده از تمامی نرم افزار های موجود در حوزه مورد نظر را داراست.</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-6 col-md-6 col-sm-6">
+						<div class="large-features-2 style-1 shadow-0 border-0 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1200">
+							<div class="large-features-2-thumb">
+								<img src="<?php echo __SITE_URL.__THEME_PATH;?>img/mobile-chat.png" class="img-responsive" alt="">
+							</div>
+							<div class="large-features-2-detail">
+								<h4>ارتباط مستقیم</h4>
+								<p>ما در طول اجرای فرایند کار به صورت مستقیم ارتباط طراحان با شمارو برقرار میکنیم</p>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+	</div>
+</section>
+<!-- ============================ Tagline & Purchage section ============================ -->
+
+<!-- ============================ company-brand ================================== -->
+<section class="company-brand">
+	<?php $this->Plugin->run_hook('last_companies'); ?>
+</section>
+<div class="clearfix"></div>
+<!-- ============================ company-brand End ================================== -->
